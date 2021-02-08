@@ -1,6 +1,6 @@
 # Lighthouse  [![GitHub Actions Status Badge](https://github.com/GoogleChrome/lighthouse/workflows/💡🏠/badge.svg)](https://github.com/GoogleChrome/lighthouse/actions) [![Coverage Status](https://img.shields.io/coveralls/GoogleChrome/lighthouse/master.svg)](https://coveralls.io/github/GoogleChrome/lighthouse?branch=master) [![Build tracker for Lighthouse](https://img.shields.io/badge/buildtracker-ok-blue)](https://lh-build-tracker.herokuapp.com/) [![NPM lighthouse package](https://img.shields.io/npm/v/lighthouse.svg)](https://npmjs.org/package/lighthouse)
 
-> Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+> Lighthouse analyses web apps and web pages, collecting modern performance metrics and insights on developer best practices.
 
 - Using Lighthouse
   - [Using Lighthouse in Chrome DevTools](#using-lighthouse-in-chrome-devtools)
